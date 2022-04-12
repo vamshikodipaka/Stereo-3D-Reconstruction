@@ -1,5 +1,5 @@
 # Stereo-3D-Reconstruction
-A ROS Node for finding Stereo Depth Map and Stereo 3D Reconstruction and Point Cloud Representation from two images(Python/OpenCV)
+A ROS Node for finding Stereo Depth Map and Stereo 3D Reconstruction and Point Cloud Representation from two images(Python/OpenCV/Ubuntu18.04)
 
 This is the [video output](https://www.youtube.com/watch?v=7nJzizRMOLg) Stereo_3D_Reconstruction - rosnode - python - opencv and ros (Revised) 
 
