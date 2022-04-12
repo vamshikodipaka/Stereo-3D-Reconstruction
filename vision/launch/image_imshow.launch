@@ -1,0 +1,5 @@
+<launch>
+
+   <node name="image" pkg="vision" type="image.py" output="screen" />
+
+</launch>

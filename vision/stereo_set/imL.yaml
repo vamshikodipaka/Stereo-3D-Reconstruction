@@ -1,0 +1,129 @@
+---
+  version: 1.0
+  image: 
+    name: /home/videosdownloader/public_html/image/public/uploadt/imL.png
+    baseName: imL.png
+    format: PNG
+    formatDescription: PNG
+    mimeType: image/png
+    class: DirectClass
+    geometry: 
+      width: 384
+      height: 288
+      x: 0
+      y: 0
+    
+    units: Undefined
+    type: TrueColor
+    baseType: Undefined
+    endianness: Undefined
+    colorspace: sRGB
+    depth: 8
+    baseDepth: 8
+    channelDepth: 
+      red: 8
+      green: 8
+      blue: 1
+    
+    pixels: 331776
+    imageStatistics: 
+      overall: 
+        min: 0
+        max: 255
+        mean: 65.8838
+        median: 25
+        standardDeviation: 13882.3
+        kurtosis: 1.15002
+        skewness: 1.26663
+        entropy: 0.905511
+      
+    
+    channelStatistics: 
+      red: 
+        min: 0
+        max: 255
+        mean: 74.7116
+        median: 27
+        standardDeviation: 16251.9
+        kurtosis: 0.0347578
+        skewness: 0.916469
+        entropy: 0.932363
+       
+      green: 
+        min: 0
+        max: 254
+        mean: 67.6057
+        median: 26
+        standardDeviation: 13099.7
+        kurtosis: 1.71434
+        skewness: 1.35229
+        entropy: 0.905227
+       
+      blue: 
+        min: 0
+        max: 249
+        mean: 55.3342
+        median: 22
+        standardDeviation: 12295.2
+        kurtosis: 2.37626
+        skewness: 1.60067
+        entropy: 0.878942
+      
+    
+    renderingIntent: Perceptual
+    gamma: 0.454545
+    chromaticity: 
+      redPrimary: 
+        x: 0.64
+        y: 0.33
+      
+      greenPrimary: 
+        x: 0.3
+        y: 0.6
+      
+      bluePrimary: 
+        x: 0.15
+        y: 0.06
+      
+      whitePrimary: 
+        x: 0.3127
+        y: 0.329
+      
+    
+    matteColor: #BDBDBD
+    backgroundColor: #FFFFFF
+    borderColor: #DFDFDF
+    transparentColor: #00000000
+    interlace: None
+    intensity: Undefined
+    compose: Over
+    pageGeometry: 
+      width: 384
+      height: 288
+      x: 0
+      y: 0
+    
+    dispose: Undefined
+    iterations: 0
+    compression: Zip
+    orientation: Undefined
+    properties: 
+      "date:create": "2022-03-23T19:40:00+00:00"
+      "date:modify": "2022-03-23T19:40:00+00:00"
+      "png:IHDR.bit-depth-orig": 8
+      "png:IHDR.bit_depth": 8
+      "png:IHDR.color-type-orig": 2
+      "png:IHDR.color_type": 2 (Truecolor)
+      "png:IHDR.interlace_method": 0 (Not interlaced)
+      "png:IHDR.width,height": 384, 288
+      "png:sRGB": intent=0 (Perceptual Intent)
+      signature: ffb71e350edc358381693d70849443951c60d1cadcd231685f253aa6836031b2
+    
+    tainted: false
+    filesize: 182317B
+    numberPixels: 110592
+    pixelsPerSecond: 914844B
+    userTime: 0.020u
+    elapsedTime: 0:01.120
+    version: "ImageMagick 7.0.10-58 Q16 x86_64 2021-01-14 https://imagemagick.org"
+...

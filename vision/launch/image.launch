@@ -1,0 +1,4 @@
+<launch>
+  <node name="image_pub" pkg="vision" type="image.py" output="screen"/>
+
+</launch>
